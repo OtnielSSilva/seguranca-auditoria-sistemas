@@ -1,0 +1,1 @@
+Poderíamos adicionar "00000000" ao final da mensagem codificada, o que eliminaria a necessidade de o usuário informar quantos caracteres deseja decifrar. Isso tornaria o processo mais automático e flexível, permitindo decodificar mensagens de qualquer tamanho sem ajustes manuais, além de aumentar a confiabilidade do sistema.

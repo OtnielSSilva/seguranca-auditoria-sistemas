@@ -2,7 +2,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 from Crypto.Random import get_random_bytes
 
-# Função para encriptar uma mensagem usando AES em modo CBC
+# Função para encriptar uma mensagem usando AES
 
 
 def aes_encriptar(mensagem, chave):
@@ -18,7 +18,7 @@ def aes_encriptar(mensagem, chave):
     # Retorna o IV concatenado com a mensagem encriptada
     return iv + mensagem_encriptada
 
-# Função para decriptar uma mensagem encriptada usando AES em modo CBC
+# Função para decriptar uma mensagem encriptada usando AES
 
 
 def aes_decriptar(mensagem_encriptada, chave):

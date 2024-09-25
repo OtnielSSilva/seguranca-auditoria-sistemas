@@ -1,4 +1,4 @@
-# Codificador e Decodificador de Mensagens em Imagens
+# Códigos e desafios desenvolvidos em laboratório na disciplina de Segurança e Auditoria de Sistemas
 
 Este projeto implementa diferentes técnicas de criptografia para codificar e decodificar mensagens em imagens e realizar a criptografia de mensagens com algoritmos de segurança, como AES e Cifra de César, além de gerar hashes usando HMAC (e podendo gerar bytes aleatórios como chave).
 
